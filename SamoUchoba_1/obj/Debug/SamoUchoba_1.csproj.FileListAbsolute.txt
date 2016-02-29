@@ -1,0 +1,6 @@
+c:\users\alf\documents\visual studio 2015\Projects\SamoUchoba_1\SamoUchoba_1\bin\Debug\SamoUchoba_1.exe.config
+c:\users\alf\documents\visual studio 2015\Projects\SamoUchoba_1\SamoUchoba_1\bin\Debug\SamoUchoba_1.exe
+c:\users\alf\documents\visual studio 2015\Projects\SamoUchoba_1\SamoUchoba_1\bin\Debug\SamoUchoba_1.pdb
+c:\users\alf\documents\visual studio 2015\Projects\SamoUchoba_1\SamoUchoba_1\obj\Debug\SamoUchoba_1.csprojResolveAssemblyReference.cache
+c:\users\alf\documents\visual studio 2015\Projects\SamoUchoba_1\SamoUchoba_1\obj\Debug\SamoUchoba_1.exe
+c:\users\alf\documents\visual studio 2015\Projects\SamoUchoba_1\SamoUchoba_1\obj\Debug\SamoUchoba_1.pdb
